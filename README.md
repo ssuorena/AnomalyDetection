@@ -2,7 +2,7 @@
 
 I can help you create a general README template for an anomaly detection project. Here’s a markdown version of a comprehensive README for such a project:
 
-```markdown
+
 # 🚨 Anomaly Detection
 
 A Python-based project for detecting anomalies in datasets using various machine learning techniques. This project can be used to identify unusual patterns that do not conform to expected behavior, making it useful in fields such as fraud detection, network security, and fault detection in systems.
@@ -39,11 +39,9 @@ A Python-based project for detecting anomalies in datasets using various machine
 
 3. The results will be saved in the `output/` folder, including a report and visualizations.
 
-## 🔍 Algorithms Implemented
+## 🔍 Algorithm Implemented
 
 - **Isolation Forest**: Efficiently detects anomalies by isolating them in the feature space.
-- **Autoencoders**: Neural network-based technique for detecting anomalies.
-- **One-Class SVM**: Support Vector Machine method for detecting anomalies in datasets.
 
 ## 📊 Visualization
 
